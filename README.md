@@ -1,6 +1,6 @@
 # Programming_Skills_For_Data_Science
 
-![](images/in.png), 
+![](images/in.png)
 
 ### What You'll Learn
 Programming Skills for Data Science teaches you how to write code to work with data. Using the R software, you will programmatically work with real datasets to build interactive visualizations, web applications, and well-crafted data reports. All exercises are from the book's In Action code repository.
