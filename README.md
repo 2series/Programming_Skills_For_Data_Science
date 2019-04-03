@@ -1,4 +1,4 @@
-## Rihad's take on building Web-Applications
+## R Is Cool
 
 ![](images/in.png)
 
