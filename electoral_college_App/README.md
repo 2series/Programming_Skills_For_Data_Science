@@ -1,4 +1,6 @@
-## Electoral College
+## Electoral College Web-App
+![](images/img.png)
+
 In this project, I'll practice building an a multi-tab Shiny application. The final product should look like this:
 
 ![scatter plot in shiny app](imgs/scatter.png)
