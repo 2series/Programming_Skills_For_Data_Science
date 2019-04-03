@@ -12,6 +12,6 @@ Click the URL to view the app in your browser [diamonds web-app](https://r-varia
 
 Click the URL to view the app in your browser [income growth web-app](https://r-variawa.shinyapps.io/income_growth_App/)
 
-Click the URL to view the app in your browser [electoral college web-app](https://r-variawa.shinyapps.io/electoral_college_App/)
+Click the URL to view the app in your browser [electoral college vote web-app](https://r-variawa.shinyapps.io/electoral_college_App/)
 
 
