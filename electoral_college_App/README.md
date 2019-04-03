@@ -1,5 +1,5 @@
 ## Electoral College Web-App
-![](images/img.png)
+![](imgs/img.png)
 
 In this project, I'll practice building an a multi-tab Shiny application. The final product should look like this:
 
