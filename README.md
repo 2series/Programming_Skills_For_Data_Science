@@ -2,10 +2,6 @@
 
 ![](images/in.png)
 
-### What You'll Learn
-
-How to write code to work with data. Using the R software, you will programmatically work with real datasets to build interactive visualizations, web applications, and well-crafted data reports.
-
 ## Interactive Web-Applications Build And Deployed
 
 Click the URL to view the app in your browser [diamonds web-app](https://r-variawa.shinyapps.io/diamonds_App/)
