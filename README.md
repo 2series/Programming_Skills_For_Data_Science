@@ -4,7 +4,7 @@
 <table style="width:100%" >
   <tr>
     <td><a target="_blank"  href="https://www.amazon.com/Learning-Social-Media-Analytics-R/dp/1787127524/ref=sr_1_1?ie=UTF8&qid=1498661417&sr=8-1&keywords=learning+social+media+analytics+with+r">
-      <img src="./images/logo.png" alt="amazon" align="left"/>
+      <img src="./images/amazon.png" alt="amazon" align="left"/>
     </a></td>
   </tr>
 </table>
