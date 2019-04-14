@@ -1,6 +1,8 @@
 ## Programming with R
 
-![](images/in.png)
+<a target="_blank" href="#">
+  <img src="./images/in.png" alt="Book Cover" width="350" align="left"/>
+</a>
 
 ## Interactive Web-Applications Build And Deployed
 
